@@ -24,3 +24,9 @@ In addition to standard Mixins there is also a special type of ruleset which can
 8. Horizontal Gradients
 9. Transition Animation
 10. Rotation
+
+### License & Disclaimer
+
+- MIT License
+- Copyright 2013, Ashley Hitchcock
+- Please feel free to fork and contribute!
